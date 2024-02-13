@@ -5,8 +5,8 @@
 - 📫 Reach me for collaborations or idea exchanges via email.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Football and music fuel my off-screen life—rooting for Galatasaray and vibing to classic to alternative rock.
-- 🏆 **Football**: More than a game, it's about Galatasaray's community spirit.
-- 🎶 **Music**: From classic to alternative rock, it's my coding companion.
+- 🏆 More than a game, it's about ![GS](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Galatasaray_Sports_Club_Logo.svg/16px-Galatasaray_Sports_Club_Logo.svg.png) Galatasaray's community spirit.
+- 🎶 From classic to alternative rock, it's my coding companion.
 - 🎓 Expertise in Data Science, Mathematical Optimization, Statistics, and familiar with CV, NLP, Generative AI, and RL.
 ### 🛠️ Technologies & Tools
 | Python | R | SPSS | Excel | Google Sheets | SQLite | MySQL | MongoDB | Tableau |
