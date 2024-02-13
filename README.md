@@ -1,18 +1,13 @@
-- 👋 Hi, I’m @salimunlu, a Python Developer, Data Scientist, and Operations Research Analyst based in Türkiye. My work intersects advanced analytics, software development, and a deep interest in exploring the capabilities of AI and machine learning.
-- 👀 I’m passionate about Data Science, Software Development, and the application of Mathematical Optimization and Statistics in solving complex, real-world problems.
-- 🌱 Currently, I'm diving into Computer Vision, Natural Language Processing, Generative AI, and Reinforcement Learning, aiming to integrate these AI advancements into operational research and data analysis.
-- 💞️ Looking to collaborate on projects that challenge me to leverage my skills in AI, machine learning, data analysis, and optimization models to push the boundaries of what's possible in technology and decision-making.
-- 📫 How to reach me: For collaboration or to share ideas, feel free to email me.
+- 👋 Hi, I’m @salimunlu from Türkiye, blending Python Development, Data Science, and Operations Research with a zest for AI.
+- 👀 Keen on solving real-world problems through Data Science and Software Development, leveraging Mathematical Optimization and Statistics.
+- 🌱 Exploring AI domains: Computer Vision, NLP, Generative AI, and Reinforcement Learning to innovate in data analysis and optimization.
+- 💞️ Eager to collaborate on projects pushing tech and decision-making limits using AI, machine learning, and optimization.
+- 📫 Reach me for collaborations or idea exchanges via email.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not immersed in technology and data, I indulge in my love for football and music. These passions energize me and fuel my creativity and innovation in my professional work.
-- 🏆 **Football Enthusiast**: A devoted fan of Galatasaray, my love for football goes beyond just watching the games. It's about the community, the highs and lows, and the unwavering support for my team.
-- 🎶 **Music Lover**: My musical tastes are as diverse as my interests in technology, ranging from classic to alternative rock. Music not only serves as a source of inspiration but also as a companion during my coding and analytical endeavors.
-- 🎓 With an MS in Operations Research, my expertise spans Mathematical Optimization and Statistics. Below is a list of technologies and tools I'm proficient in:
-  - **Programming Languages & Libraries**: Python (including libraries like NumPy, Pandas, Matplotlib, Scikit-learn), R, SAS
-  - **Statistical Software**: SPSS, Jasp, Jamovi, Minitab, Stata, GPower
-  - **Data Visualization & Analysis Tools**: Excel, Google Sheets, Google Data Studio, Tableau
-  - **Database Management Systems**: SQLite, MySQL, MongoDB, Neo4j
-  - **Machine Learning & AI**: Well-versed in CV, NLP, Generative AI, and RL concepts and frameworks
+- ⚡ Fun fact: Football and music fuel my off-screen life—rooting for Galatasaray and vibing to classic to alternative rock.
+- 🏆 **Football**: More than a game, it's about Galatasaray's community spirit.
+- 🎶 **Music**: From classic to alternative rock, it's my coding companion.
+- 🎓 Expertise in Mathematical Optimization, Statistics, and a tech stack that includes Python, R, SPSS, Excel, Google Sheets, SQLite, MySQL, MongoDB, Neo4j, and familiar with CV, NLP, Generative AI, and RL.
 
 <!---
 salimunlu/salimunlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
